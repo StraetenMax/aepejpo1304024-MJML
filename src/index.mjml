@@ -60,7 +60,7 @@
                 <strong>{{ contact.PRENOM }}</strong>, les métiers de la Petite Enfance vous intéressent et vous souhaitez entreprendre une formation initiale ou en alternance ?
                 </mj-text>
                 <mj-text padding-top="0" padding-bottom="0" mj-class="d-text">
-                ECOSUP Santé vous ouvre ses portes ce 
+                <strong>ECOSUP Santé</strong> vous ouvre ses portes ce 
                 </mj-text>
                  <mj-text align="center" mj-class="d-date">
                 Samedi 13 avril de 9h30 à 13h.
@@ -149,6 +149,7 @@
                 <mj-social padding-top="0" padding-bottom="0" align="right" icon-size="35px" mode="horizontal" css-class="m-footer2">
                     <mj-social-element background-color="#343f92" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
                     <mj-social-element background-color="#343f92" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
+                    <mj-social-element background-color="#343f92" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
                 </mj-social>
             </mj-column>
         </mj-section>
